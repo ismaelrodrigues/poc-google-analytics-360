@@ -1,8 +1,8 @@
 # PoC Google Analytics 360 Data with Databricks
-###Data: 21/Abr/21
-####Author: Ismael R.
+### Data: 21/Abr/21
+#### Author: Ismael R.
 
-##Overview
+## Overview
 This project is simple demonstration about how you can handle Google Analytics data with Spark 3.1 using Databricks in a Azure Cloud
 and propose an architecture to implement a Machine Learning Operation (MLOps).
 
@@ -34,9 +34,9 @@ In order to run this code you must create a Databricks instance in an Azure clou
 
 The following architecture proposes a creation of Machine Learning operation.
 
-![architecture](architecture.jpg)
+![architecture](./architecture.jpg)
 
 ## MER
 
-![MER](MER.jpg)
+![MER](./MER.jpg)
 
