@@ -34,9 +34,9 @@ In order to run this code you must create a Databricks instance in an Azure clou
 
 The following architecture proposes a creation of Machine Learning operation.
 
-![architecture](./architecture.jpg)
+![architecture](https://raw.githubusercontent.com/ismaelrodrigues/poc-google-analytics-360/main/architecture.jpg)
 
 ## MER
 
-![MER](./MER.jpg)
+![MER](https://raw.githubusercontent.com/ismaelrodrigues/poc-google-analytics-360/main/MER.jpg)
 
